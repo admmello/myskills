@@ -1,4 +1,4 @@
-package com.myskills;
+package com.myskills; // Trocar pelo no do Projeto.
 
 import com.wix.detox.Detox;
 import com.wix.detox.config.DetoxConfig;
